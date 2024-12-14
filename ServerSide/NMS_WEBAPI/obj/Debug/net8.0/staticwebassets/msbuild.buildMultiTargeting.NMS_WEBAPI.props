@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NMS_WEBAPI.props" />
+</Project>

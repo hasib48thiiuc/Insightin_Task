@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C8piMqVRgEZpHx964U45/ponUoZJqzA3Rkv4r7ZyEFk=",
+  "Source": "NMS_WEBAPI",
+  "BasePath": "_content/NMS_WEBAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@NMS_WEBAPI_HostAddress = http://localhost:5007
+
+GET {{NMS_WEBAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
